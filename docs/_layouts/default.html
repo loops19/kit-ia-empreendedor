@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+{% seo %}
+</head>
+<body>
+<header>
+  <h1><a href="{{ '/' | relative_url }}" style="color:white;text-decoration:none;">{{ site.title }}</a></h1>
+  <p>{{ site.description }}</p>
+  <nav>
+    <a href="{{ '/' | relative_url }}">Inicio</a>
+    <a href="https://loopsofficial.gumroad.com/l/kit-ia-empreendedor-50-prompts">Kit Entry ()</a>
+    <a href="https://loopsofficial.gumroad.com/l/kit-ia-empreendedor-50-prompts-pro">Kit PRO ()</a>
+    <a href="https://loopsofficial.gumroad.com/l/kit-ia-empreendedor-bundle">Bundle ()</a>
+    <a href="https://loopsofficial.gumroad.com/l/5-prompts-ia-gratis">Gratis</a>
+  </nav>
+</header>
+<div class="wrap">
+  {{ content }}
+</div>
+<footer>
+  <p>Kit IA para Empreendedor — 50/100 Prompts de Produtividade com IA</p>
+  <p>Precos em USD • Cupom BRASIL40 = 40% OFF para clientes brasileiros</p>
+</footer>
+</body>
+</html>

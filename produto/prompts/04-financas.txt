@@ -1,0 +1,75 @@
+=== PROMPTS DE FINANÇAS E GESTÃO ===
+Kit IA para Empreendedor — 50 Prompts
+======================================
+
+[PROMPT 31] — Precificação de produto/serviço
+Ajude-me a precificar [produto/serviço]. Custos: [liste].
+Mercado: concorrentes cobram entre [X] e [Y].
+Público: [classe social/profissão].
+Valor entregue: [descreva resultado].
+Me dê 3 opções de preço: entrada, ideal, premium.
+Para cada: justificativa + margem estimada.
+
+[PROMPT 32] — Planejamento financeiro mensal
+Crie um roteiro de planejamento financeiro mensal para
+[meu tipo de negócio]. Inclua: 1) projeção de receita
+2) custos fixos 3) custos variáveis 4) margem 5) metas.
+Formato: check-list + planilha mental.
+
+[PROMPT 33] — Análise de lucro por produto
+Ajude-me a calcular a lucratividade real de [produto/serviço]
+considerando: preço de venda [X], taxa da plataforma [Y]%,
+custo de aquisição [Z], frete/entrega [W], impostos [V]%.
+Me dê: lucro bruto, lucro líquido, margem %, ponto de
+equilíbrio em unidades.
+
+[PROMPT 34] — Controle de fluxo de caixa
+Crie uma planilha conceitual de fluxo de caixa para pequeno
+negócio. Colunas: data, descrição, entrada, saída, saldo,
+categoria. Linhas: 30 dias. Inclua categorias comuns:
+vendas, plataforma, marketing, material, fixas, retirada.
+
+[PROMPT 35] — Decisão: investir ou não
+Ajude-me a decidir se devo investir [valor] em [ação:
+exemplo: anúncios pagos, novo produto, ferramenta].
+Cenário atual: [descreva].
+Retorno esperado: [X].
+Risco: [alto/médio/baixo].
+Me dê: análise custo-benefício, timeline de retorno,
+alternativas mais baratas, decisão recomendada.
+
+[PROMPT 36] — Meta de faturamento e desdobramento
+Defina metas realistas de faturamento para meu [tipo de
+negócio] nos próximos 3 meses. Meta mensal: [X].
+Desdobre em: quantas vendas/dia, ticket médio necessário,
+leads necessários, taxa de conversão requerida.
+Considere: minha realidade atual de [Y] vendas/mês.
+
+[PROMPT 37] — Controle de despesas
+Crie 5 categorias de despesas para meu negócio digital e
+sugira um orçamento mensal para cada. Receita estimada: [X].
+Categorias: 1) operação 2) marketing 3) ferramentas
+4) desenvolvimento 5) reserva.
+Para cada: % ideal do faturamento e valor em R$.
+
+[PROMPT 38] — Roteiro de revisão financeira semanal
+Crie um roteiro de 15 minutos para revisão financeira semanal:
+Passo 1: [o que verificar]
+Passo 2: [o que analisar]
+Passo 3: [o que decidir]
+Inclua perguntas-chave para cada passo.
+Objetivo: manter saúde financeira com mínimo esforço.
+
+[PROMPT 39] — Comparação de plataformas de venda
+Compare as plataformas [Hotmart, Gumroad, Kiwify] para vender
+[meu tipo de produto digital]. Critérios: taxa, público,
+facilidade, pagamento BR, suporte, ferramentas.
+Conclusão: qual é a melhor para o meu caso e por quê.
+
+[PROMPT 40] — Precificação de mentoria/consultoria
+Ajude-me a precificar uma mentoria/consultoria de [tema].
+Minha experiência: [X anos/resultados].
+Formato: [online/presencial, quantas sessões].
+Concorrência: [faixa de preço].
+Valor entregue: [resultado específico].
+Sugira 3 níveis de preço e o que incluir em cada.

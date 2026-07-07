@@ -1,0 +1,79 @@
+=== PROMPTS DE PRODUTIVIDADE E ORGANIZAÇÃO ===
+Kit IA para Empreendedor — 50 Prompts
+======================================
+
+[PROMPT 41] — Planejamento semanal ideal
+Crie meu planejamento semanal ideal para [tipo de negócio].
+Distribuição: 30% produção, 20% vendas, 20% marketing,
+15% gestão, 15% aprendizado.
+Segunda a sexta: blocos de 2h com tarefa específica.
+Inclua pausas e horário de início/término realistas.
+
+[PROMPT 42] — Priorização de tarefas (Matriz Eisenhower)
+Ajude-me a priorizar minhas tarefas desta semana usando a
+Matriz Eisenhower (urgente x importante). Minha lista:
+[cole suas tarefas]. Classifique cada uma e me dê um plano
+de ação para a semana com as 3 tarefas mais importantes.
+
+[PROMPT 43] — Sistema de organização de arquivos
+Crie uma estrutura de pastas organizada para meu negócio
+digital. Pastas principais:
+1. Produto 2. Marketing 3. Vendas 4. Financeiro 5. Clientes
+6. Aprendizado
+Subpastas recomendadas para cada. Formato: árvore.
+
+[PROMPT 44] — Checklist de lançamento de produto
+Crie um checklist completo de lançamento de produto digital
+com 30 itens, dividido em fases:
+Pré-lançamento (D-30 a D-8): [itens]
+Aquecimento (D-7 a D-1): [itens]
+Lançamento (D0 a D7): [itens]
+Pós-lançamento (D8 a D30): [itens]
+Cada item: descrição + status (a fazer/fazendo/pronto).
+
+[PROMPT 45] — Rotina de criação de conteúdo
+Desenhe uma rotina de criação de conteúdo que produza
+7 dias de posts em 2 horas. Inclua:
+1. Pesquisa (20 min)
+2. Criação em lote (60 min)
+3. Design (25 min)
+4. Agendamento (15 min)
+Ferramentas sugeridas: gratuitas.
+
+[PROMPT 46] — Delegação e terceirização
+Liste 10 tarefas do meu negócio que posso delegar ou
+automatizar. Para cada: tarefa, ferramenta de automação
+sugerida, tempo economizado/semana, prioridade (alta/média).
+Considere: [meu nicho].
+
+[PROMPT 47] — Reunião de 15 minutos
+Crie uma pauta para reunião de alinhamento semanal de
+15 minutos com [equipe/parceiro/fornecedor].
+Pauta:
+1. [O que fazer?]
+2. [O que está bloqueado?]
+3. [O que aprendemos?]
+4. [Próximos passos?]
+Regra: 3 min por tópico, sem exceção.
+
+[PROMPT 48] — Sistema de metas e hábitos
+Crie um sistema simples de 3 metas e 3 hábitos diários para
+fazer meu negócio crescer este mês.
+Cada meta: específica, mensurável, prazo.
+Cada hábito: ação concreta de <15 minutos.
+Formato: 1 tabela simples para imprimir e colar na parede.
+
+[PROMPT 49] — Análise semanal de resultados
+Crie um template de análise semanal de resultados com:
+Métricas: vendas, leads, tráfego, conversão, receita, custos.
+Perguntas: o que funcionou, o que não funcionou, o que
+vou fazer diferente.
+Formato: 5 minutos para preencher.
+
+[PROMPT 50] — Plano de 90 dias
+Crie um plano de 90 dias para [objetivo específico do meu
+negócio]. Divida em:
+Mês 1 (dias 1-30): [foco + ações + meta]
+Mês 2 (dias 31-60): [foco + ações + meta]
+Mês 3 (dias 61-90): [foco + ações + meta]
+Inclua 1 indicador principal para cada mês.

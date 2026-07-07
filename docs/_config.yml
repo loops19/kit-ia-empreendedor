@@ -1,0 +1,14 @@
+﻿title: Kit IA para Empreendedor
+description: >-
+  50+100 prompts de IA para empreendedores brasileiros.
+  Aprenda a usar ChatGPT, Claude e Gemini no seu negócio.
+baseurl: "/kit-ia-empreendedor"
+url: "https://loops19.github.io"
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+future: true
+show_excerpts: true

@@ -1,0 +1,49 @@
+{
+  "semana1": {
+    "segunda": [
+      {"horario": "06:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/segunda-reddit.md", "titulo": "Criei 50 prompts de IA para empreendedores - disponivel"},
+      {"horario": "09:00", "plataforma": "medium", "arquivo": "semana1/segunda-medium.md", "titulo": "IA para Empreendedores: Como Dobrar Sua Produtividade"},
+      {"horario": "12:00", "plataforma": "reddit", "subreddit": "MarketingDigitalBR", "arquivo": "semana1/segunda-reddit2.md", "titulo": "Dica rapida: use IA para criar posts de Instagram em 5 minutos"},
+      {"horario": "15:00", "plataforma": "devto", "arquivo": "semana1/segunda-devto.md", "titulo": "I Built a Digital Product with AI in 2 Hours"},
+      {"horario": "18:00", "plataforma": "reddit", "subreddit": "brdev", "arquivo": "semana1/segunda-reddit3.md", "titulo": "Automatizei um negocio digital com API - funcionou"},
+      {"horario": "21:00", "plataforma": "medium", "arquivo": "semana1/segunda-medium2.md", "titulo": "5 Prompts de IA que Todo Empreendedor Deveria Conhecer"}
+    ],
+    "terca": [
+      {"horario": "06:00", "plataforma": "reddit", "subreddit": "PergunteReddit", "arquivo": "semana1/terca-reddit.md", "titulo": "Empreendedores, como voces usam IA no dia a dia?"},
+      {"horario": "09:00", "plataforma": "medium", "arquivo": "semana1/terca-medium.md", "titulo": "O Guia Definitivo de Prompts de IA para Pequenos Negocios"},
+      {"horario": "12:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/terca-reddit2.md", "titulo": "Testei 5 ferramentas de IA gratis - esse e o resultado"},
+      {"horario": "15:00", "plataforma": "devto", "arquivo": "semana1/terca-devto.md", "titulo": "How I Automated My Entire Content Creation Pipeline"},
+      {"horario": "21:00", "plataforma": "reddit", "subreddit": "conversas", "arquivo": "semana1/terca-reddit3.md", "titulo": "IA vai substituir o trabalho criativo? Minha experiencia"}
+    ],
+    "quarta": [
+      {"horario": "06:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/quarta-reddit.md", "titulo": "Prompt de IA que me salvou horas de trabalho"},
+      {"horario": "09:00", "plataforma": "medium", "arquivo": "semana1/quarta-medium.md", "titulo": "De Zero a Produto Digital Publicado em 2 Horas com IA"},
+      {"horario": "12:00", "plataforma": "reddit", "subreddit": "MarketingDigitalBR", "arquivo": "semana1/quarta-reddit2.md", "titulo": "Copy de vendas com IA - funciona ou nao? Testei"},
+      {"horario": "18:00", "plataforma": "devto", "arquivo": "semana1/quarta-devto.md", "titulo": "The $0 Startup: Building a Micro-SaaS with Free Tools"},
+      {"horario": "21:00", "plataforma": "reddit", "subreddit": "farialimabets", "arquivo": "semana1/quarta-reddit3.md", "titulo": "Criei um produto digital com IA e to vendendo - AMA"}
+    ],
+    "quinta": [
+      {"horario": "06:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/quinta-reddit.md", "titulo": "A melhor ferramenta de IA gratuita para empreendedores em 2026"},
+      {"horario": "09:00", "plataforma": "medium", "arquivo": "semana1/quinta-medium.md", "titulo": "Como Criar um Negocio Digital Automatico sem Investimento"},
+      {"horario": "15:00", "plataforma": "reddit", "subreddit": "brdev", "arquivo": "semana1/quinta-reddit2.md", "titulo": "Fiz um script que posta automaticamente em 3 plataformas"},
+      {"horario": "18:00", "plataforma": "devto", "arquivo": "semana1/quinta-devto.md", "titulo": "Automating Social Media with PowerShell and APIs"},
+      {"horario": "21:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/quinta-reddit3.md", "titulo": "Quanto custa comecar um negocio digital em 2026? Contas"}
+    ],
+    "sexta": [
+      {"horario": "06:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/sexta-reddit.md", "titulo": "Case: vendi meu primeiro produto digital em 3 dias"},
+      {"horario": "09:00", "plataforma": "medium", "arquivo": "semana1/sexta-medium.md", "titulo": "Os 10 Prompts de IA que Uso Todos os Dias no Meu Negocio"},
+      {"horario": "12:00", "plataforma": "reddit", "subreddit": "MarketingDigitalBR", "arquivo": "semana1/sexta-reddit2.md", "titulo": "Estrategia de divulgacao gratuita para produtos digitais"},
+      {"horario": "18:00", "plataforma": "devto", "arquivo": "semana1/sexta-devto.md", "titulo": "From Idea to Revenue: A Complete Digital Product Blueprint"},
+      {"horario": "21:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/sexta-reddit3.md", "titulo": "Prompts de IA que melhoraram minhas vendas em Instagram"}
+    ],
+    "sabado": [
+      {"horario": "09:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/sabado-reddit.md", "titulo": "Compilado: as melhores dicas de IA para empreendedores"},
+      {"horario": "15:00", "plataforma": "medium", "arquivo": "semana1/sabado-medium.md", "titulo": "IA Gratuita vs IA Paga para Empreendedores: Qual Escolher?"},
+      {"horario": "21:00", "plataforma": "reddit", "subreddit": "conversas", "arquivo": "semana1/sabado-reddit2.md", "titulo": "O que voces acham de produtos digitais com IA?"}
+    ],
+    "domingo": [
+      {"horario": "09:00", "plataforma": "medium", "arquivo": "semana1/domingo-medium.md", "titulo": "Planejamento Semanal com IA: Minha Rotina de Criacao de Conteudo"},
+      {"horario": "18:00", "plataforma": "reddit", "subreddit": "empreendedorismo", "arquivo": "semana1/domingo-reddit.md", "titulo": "Domingo de reflexao: o que funcionou e o que nao funcionou"}
+    ]
+  }
+}

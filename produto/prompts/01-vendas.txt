@@ -1,0 +1,86 @@
+=== PROMPTS DE VENDAS E CONVERSÃO ===
+Kit IA para Empreendedor — 50 Prompts
+======================================
+
+[PROMPT 1] — Copy de anúncio Meta Ads
+Crie um anúncio para Facebook/Instagram sobre [produto/serviço].
+Público: [descreva o público].
+Dor principal: [qual problema resolve].
+Diferencial: [seu diferencial].
+Tom: persuasivo e direto.
+Formato: texto principal + headline + CTA.
+Inclua 3 variações para teste A/B.
+
+[PROMPT 2] — Sequência de e-mails para follow-up
+Crie uma sequência de 4 e-mails para follow-up de leads que
+baixaram meu material gratuito sobre [tema].
+Lead magnet: [nome do material].
+Produto principal: [produto] por [preço].
+Tom: educativo e depois persuasivo.
+Objetivo: converter em compra até o 4o e-mail.
+Inclua assunto, corpo do e-mail e CTA de cada um.
+
+[PROMPT 3] — Script de VSL (Video Sales Letter)
+Escreva um roteiro de VSL de 3 minutos para [produto/serviço].
+Abertura: ganhe atenção nos primeiros 5 segundos.
+Problema: descreva a dor principal do [público-alvo].
+Solução: apresente meu produto como resposta.
+Prova: inclua um case ou depoimento.
+Oferta: preço de [valor] com [garantia/diferencial].
+CTA: compre agora.
+Tom: conversacional, direto ao ponto.
+
+[PROMPT 4] — Oferta irresistível
+Monte uma estrutura de oferta para [produto/serviço] de
+[preço original] que gere urgência e escassez.
+Inclua: bônus, garantia, prazo limitado, desconto.
+Público: [descrição do cliente ideal].
+Objetivo: aumentar conversão em 30%.
+
+[PROMPT 5] — Perguntas para qualificar lead no WhatsApp
+Crie um roteiro de 5 perguntas para qualificar leads no WhatsApp
+que responderam a [anúncio/publicação].
+Produto: [produto].
+Objetivo: identificar dor, orçamento e urgência em 3 minutos
+de conversa.
+Tom: consultivo, não vendedor.
+
+[PROMPT 6] — Resposta para objeção de preço
+Me dê 5 respostas prontas para a objeção "é muito caro" para
+meu produto [nome] de [preço].
+Inclua em cada resposta: reenquadramento de valor,
+comparação com custo de não ter o produto, e prova social.
+Tom: educado, confiante, sem ser defensivo.
+
+[PROMPT 7] — Texto para WhatsApp de vendas
+Escreva um texto de vendas para WhatsApp com 200-300 caracteres
+para [produto/serviço]. Inclua: saudação personalizada,
+dor/problema, solução, CTA com link.
+Tom: conversacional, próximo, sem ser invasivo.
+
+[PROMPT 8] — Proposta comercial por mensagem
+Crie uma proposta comercial enxuta para enviar por mensagem
+(Direct/WhatsApp) para [cliente ideal] sobre [produto/serviço].
+Diferencial: [seu diferencial].
+Preço: [valor].
+Inclua: problema, solução, resultado, investimento, CTA.
+Máximo 400 caracteres.
+
+[PROMPT 9] — Script de abordagem para prospecção
+Crie 3 scripts de abordagem para prospecção ativa no Instagram
+Direct para vender [produto/serviço].
+Público: [descreva].
+Abordagem 1: elogio + problema + oferta.
+Abordagem 2: pergunta + solução.
+Abordagem 3: case + convite.
+Tom: útil, não spam.
+
+[PROMPT 10] — Gatilhos mentais para descrição de produto
+Reescreva a descrição abaixo do meu produto [cole a descrição]
+aplicando estes gatilhos mentais em cada parágrafo:
+1. Prova social (pessoas usam)
+2. Autoridade (especialista criou)
+3. Urgência (tempo limitado)
+4. Especificidade (dados exatos)
+5. Reciprocidade (bônus)
+Formato: descrição final pronta para Hotmart/Kiwify/Gumroad.

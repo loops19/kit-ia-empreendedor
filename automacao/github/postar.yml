@@ -1,0 +1,61 @@
+name: Postagem Automatica
+
+on:
+  schedule:
+    # Postar varias vezes ao dia (UTC = -3h Brasil)
+    - cron: '0 9 * * *'   # 06:00 BRT
+    - cron: '0 12 * * *'  # 09:00 BRT
+    - cron: '0 15 * * *'  # 12:00 BRT
+    - cron: '0 18 * * *'  # 15:00 BRT
+    - cron: '0 21 * * *'  # 18:00 BRT
+    - cron: '0 0 * * *'   # 21:00 BRT
+  workflow_dispatch:
+    inputs:
+      semana:
+        description: 'Semana (1-4)'
+        required: true
+        default: '1'
+
+jobs:
+  postar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Configurar PowerShell
+        uses: actions/setup-powershell@v1
+      
+      - name: Calcular semana do calendario
+        id: semana
+        shell: pwsh
+        run: |
+          $semana = [Math]::Floor(((Get-Date).DayOfYear - 1) / 7) % 4 + 1
+          echo "semana=$semana" >> $env:GITHUB_OUTPUT
+      
+      - name: Postar no Reddit
+        shell: pwsh
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+        run: |
+          $semana = "${{ github.event.inputs.semana || steps.semana.outputs.semana }}"
+          ./automacao/scripts/postar-tudo.ps1 -Semana $semana -Modo "github"
+      
+      - name: Postar no Medium
+        shell: pwsh
+        env:
+          MEDIUM_API_KEY: ${{ secrets.MEDIUM_API_KEY }}
+          MEDIUM_AUTHOR_ID: ${{ secrets.MEDIUM_AUTHOR_ID }}
+        run: |
+          $semana = "${{ github.event.inputs.semana || steps.semana.outputs.semana }}"
+          ./automacao/scripts/postar-tudo.ps1 -Semana $semana -Modo "github"
+      
+      - name: Postar no Dev.to
+        shell: pwsh
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+        run: |
+          $semana = "${{ github.event.inputs.semana || steps.semana.outputs.semana }}"
+          ./automacao/scripts/postar-tudo.ps1 -Semana $semana -Modo "github"

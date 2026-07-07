@@ -1,0 +1,14 @@
+Data,Descricao,Categoria,Tipo,Valor,Saldo
+01/01/2026,Saldo inicial,Saldo,Entrada,0.00,0.00
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Instrucoes:,
+1. Preencha a data da transacao,
+2. Descreva o movimento,
+3. Categorize (Vendas/Plataforma/Marketing/Fixas/Retirada),
+4. Tipo: Entrada ou Saida,
+5. Valor: numeros decimais (ex: 150.00),
+6. Saldo: calcula automaticamente na planilha,

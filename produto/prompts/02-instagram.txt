@@ -1,0 +1,89 @@
+=== PROMPTS DE INSTAGRAM E REDES SOCIAIS ===
+Kit IA para Empreendedor — 50 Prompts
+======================================
+
+[PROMPT 11] — Calendário de conteúdo mensal
+Crie um calendário de conteúdo para Instagram de 30 dias para
+[meu nicho/negócio].
+Distribuição: 50% educativo, 20% entretenimento, 20% vendas,
+10% bastidores.
+Formato: data + tema + formato (post/carreosel/reels) + legenda curta.
+Público: [descreva].
+
+[PROMPT 12] — Legenda para post de venda
+Escreva 5 legendas para post de venda no Instagram sobre
+[produto/serviço].
+Cada legenda: 100-200 caracteres.
+Inclua em cada: hook nos primeiros 2 segundos, dor, solução, CTA.
+Variações: tom direto, tom story, tom perguntador.
+
+[PROMPT 13] — Roteiro de Reels de 30 segundos
+Crie 3 roteiros de Reels de 30 segundos para divulgar
+[produto/serviço].
+Estrutura de cada: hook (3s) + problema (5s) + solução (10s) +
+demonstração (7s) + CTA (5s).
+Inclua sugestão de texto na tela e música (estilo).
+
+[PROMPT 14] — Responder comentários e DMs
+Crie 10 respostas prontas para comentários e DMs no Instagram
+sobre [produto/serviço]. Inclua respostas para:
+1. "Quanto custa?"
+2. "Como funciona?"
+3. "Tem garantia?"
+4. "Indica para iniciantes?"
+5. "Tem desconto?"
+6. "Funciona para [caso específico]?"
+7. "Pode parcelar?"
+8. "Tem suporte?"
+9. "Vou pensar"
+10. "Já comprei, como acessa?"
+Tom: acolhedor, direto, profissional.
+
+[PROMPT 15] — Bio do Instagram que converte
+Escreva 3 opções de bio do Instagram para meu negócio de [nicho].
+Incluir em cada: quem sou, o que faço, resultado entrego, CTA (link).
+Máximo 150 caracteres cada.
+Diferencial: [seu diferencial].
+
+[PROMPT 16] — Chamada para ação (CTA) criativa
+Crie 20 CTAs criativos para posts de Instagram sobre
+[produto/serviço]. Variações:
+5 CTAs diretos ("Compre agora")
+5 CTAs curiosidade ("Quer saber como?")
+5 CTAs escassez ("Últimas vagas")
+5 CTAs engajamento ("Me diz nos comentários")
+
+[PROMPT 17] — Ideias de stories diários
+Gere 30 ideias de stories diários para [meu nicho] que
+engajem e vendam. Distribuição:
+10 stories educativos
+5 stories de bastidores
+5 stories de provas sociais
+5 stories interativos (enquetes, perguntas)
+5 stories de vendas
+Descreva cada ideia em 1 linha.
+
+[PROMPT 18] — Post de autoridade
+Escreva um post de autoridade para Instagram sobre [tema que
+domino]. Estrutura: minha experiência + dados do setor +
+ensinamento prático + CTA sutil.
+Tom: confiante, generoso.
+Público: [descreva].
+
+[PROMPT 19] — Thread no Twitter/LinkedIn
+Crie uma thread de 5-8 posts para LinkedIn ou Twitter sobre
+[tema relevante do meu nicho].
+Post 1: gancho (pergunta ou dado impactante)
+Posts 2-6: ensinamentos em sequência
+Post 7: resumo
+Post 8: CTA
+Tom: profissional, mas acessível.
+
+[PROMPT 20] — Hashtags estratégicas
+Me dê um pacote de 30 hashtags para Instagram segmentadas
+para [meu nicho/negócio], divididas em:
+10 hashtags de volume (500k+ posts)
+10 hashtags médias (50k-500k)
+10 hashtags de nicho (menos de 50k)
+Inclua também 5 variações de pacotes para diferentes temas
+dentro do meu nicho.

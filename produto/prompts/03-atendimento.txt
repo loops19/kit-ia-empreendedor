@@ -1,0 +1,72 @@
+=== PROMPTS DE ATENDIMENTO E SUPORTE ===
+Kit IA para Empreendedor — 50 Prompts
+======================================
+
+[PROMPT 21] — Resposta para reclamação
+Crie 5 respostas para reclamação de cliente sobre [problema
+comum no meu negócio]. Tom: empático, resolutivo.
+Estrutura: 1) validar sentimento 2) pedir desculpas 3) explicar
+causa 4) oferecer solução 5) compensação se aplicável.
+
+[PROMPT 22] — FAQ completo
+Crie um FAQ com 15 perguntas e respostas sobre [meu
+produto/serviço]. Inclua perguntas sobre: preço, entrega,
+garantia, suporte, funcionamento, devolução, diferenciais.
+Tom: claro, direto, tranquilizador.
+
+[PROMPT 23] — Mensagem de pós-venda
+Escreva 3 mensagens de pós-venda para enviar 24h após a
+compra de [produto/serviço].
+Mensagem 1: boas-vindas e agradecimento
+Mensagem 2: instruções de uso
+Mensagem 3: pedido de review/indicação
+Tom: acolhedor, generoso.
+
+[PROMPT 24] — Roteiro de onboarding
+Crie um roteiro de onboarding em 5 passos para novos clientes
+de [produto/serviço]. Cada passo: o que fazer + instrução
+clara + resultado esperado. Formato: mensagens curtas para
+enviar por WhatsApp ou e-mail.
+
+[PROMPT 25] — Lidar com cliente difícil
+Crie 5 respostas profissionais para lidar com cliente difícil
+no WhatsApp sobre [situação comum]. Situações:
+1. Cliente exigindo desconto após compra
+2. Cliente insatisfeito com prazo
+3. Cliente com dúvida repetitiva
+4. Cliente agressivo
+5. Cliente querendo cancelar
+Em cada: resposta pronta + princípio de atendimento.
+
+[PROMPT 26] — Pesquisa de satisfação
+Crie uma pesquisa de satisfação de 5 perguntas para enviar
+após a compra de [produto/serviço]. Misture: múltipla escolha
++ pergunta aberta. Inclua introdução acolhedora e
+agradecimento. Objetivo: NPS + insights de melhoria.
+
+[PROMPT 27] — E-mail de recuperação de carrinho
+Crie uma sequência de 3 e-mails para recuperar carrinho
+abandonado de [produto/serviço] de [preço].
+E-mail 1: lembrete + benefícios (enviar 1h após abandono)
+E-mail 2: objeções + prova social (enviar 24h depois)
+E-mail 3: urgência + bônus exclusivo (enviar 48h depois)
+Assuntos: persuasivos sem ser apelativos.
+
+[PROMPT 28] — Mensagem de aniversário para cliente
+Crie 3 modelos de mensagem de aniversário para cliente com
+oferta especial de [produto/serviço]. Inclua: cumprimento
+personalizado + presente/desconto + prazo de uso + CTA.
+Tom: caloroso, celebratório.
+
+[PROMPT 29] — Roteiro de suporte técnico básico
+Crie um roteiro de diagnóstico rápido para suporte técnico
+de [produto digital/serviço]. Passos: 1) identificar problema
+2) perguntas de diagnóstico 3) soluções comuns 4) escalonamento.
+Formato: árvore de decisão simples.
+
+[PROMPT 30] — Mensagem de reactivação
+Escreva 5 mensagens para reativar clientes inativos há mais
+de 90 dias do meu [produto/serviço].
+Estratégias: novidade, desconto exclusivo, conteúdo gratuito,
+prova social de novos resultados, medo de perder.
+Cada mensagem: 100-150 caracteres.
